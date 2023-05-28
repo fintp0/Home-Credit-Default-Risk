@@ -1,6 +1,6 @@
 # Home-Credit-Default-Risk
 
-This repository contains the code and resources for the Home Credit Default Risk project. The project aims to predict the likelihood of default for loan applicants using machine learning techniques.
+This repository contains the code and resources for the Home Credit Default Risk project. The project aims to predict the likelihood of default for loan applicants using machine learning techniques as well as the credit amount prediction on potential default loan applicants. 
 
 
 # Introduction
@@ -29,20 +29,12 @@ Alternatively, you can also view the HTML files for a static version of the note
 
 The project aims to predict the likelihood of default for loan applicants. The analysis includes data preprocessing, feature engineering, model training, and evaluation. Detailed results and findings can be found in the Jupyter Notebook or HTML file. The final model targets are as follow. 
 1_ML_classification_models_comparison.ipynb
--> Multiple classification models comparison based on AUC ROC score 
+  Multiple classification models comparison based on AUC ROC score 
 
 2_Light_GBM_classification_model_prediction_and_improvement
--> an AUC ROC score improvement based on feature engineering and hyperparameter tuning
+  An AUC ROC score improvement based on feature engineering and hyperparameter tuning
 
 3_Light_GBM_regression_model_prediction
--> Credit amount prediction based on Light GBM regression model
+  Credit amount prediction based on Light GBM regression model
 
 
-# Contributing
-
-Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
-
-
-# License
-
-The code in this repository is licensed under the MIT License. Feel free to use and modify the code for your own purposes.
