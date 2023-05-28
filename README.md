@@ -29,15 +29,12 @@ Alternatively, you can also view the HTML files for a static version of the note
 
 The project aims to predict the likelihood of default for loan applicants. The analysis includes data preprocessing, feature engineering, model training, and evaluation. Detailed results and findings can be found in the Jupyter Notebook or HTML file. The final model targets are as follow. 
 1_ML_classification_models_comparison.ipynb
-
--> Multiple classification models comparison based on AUC ROC score 
+  -> Multiple classification models comparison based on AUC ROC score 
 
 2_Light_GBM_classification_model_prediction_and_improvement
-  
--> An AUC ROC score improvement based on feature engineering and hyperparameter tuning
+  -> An AUC ROC score improvement based on feature engineering and hyperparameter tuning
 
 3_Light_GBM_regression_model_prediction
-  
--> Credit amount prediction based on Light GBM regression model
+  -> Credit amount prediction based on Light GBM regression model
 
 
